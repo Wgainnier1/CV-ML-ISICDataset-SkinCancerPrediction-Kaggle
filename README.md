@@ -1,1 +1,1 @@
-# Computer-Vision-Kaggle-Skin-Cancer-Detection
+# ComputerVision/MachineLearning-Kaggle-ISIC-Dataset-Skin-Cancer
